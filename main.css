@@ -1,0 +1,28 @@
+.negro {
+	width: 10%;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+
+.imagen-box{
+	height: 211px;
+	width: 211px;
+	display: inline-block;
+	position: relative;
+	margin:10px;
+	
+}
+.imagen-box div{
+	height: 211px;
+	width: 211px;
+	position: absolute;
+	top: 0px;
+	left: 0px;;
+	background: rgba(0, 0, 0, 0.4);
+}
+span {
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	color:white;
+}
